@@ -3,4 +3,4 @@ jdk: oraclejdk7
 notifications:
   email:
     recipients:
-    - jan@eigengo.com
+    - viktor.santillan@gmail.com
